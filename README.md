@@ -3,6 +3,8 @@
 ## MAC-108-EBT
 ### Spring 2024 / Mr. Lara 
 
+Link to textbook here: http://thinkpython.com/
+
 ### COURSE DESCRIPTION
 This course is an introduction to programming using the Python language. An emphasis will be
 placed on algorithmic design; basic concepts such as variables, assignments and flow control
