@@ -4,6 +4,7 @@
 ### Spring 2024 / Mr. Lara 
 
 Link to textbook here: http://greenteapress.com/thinkpython2/html/index.html
+
 Link to sample files: https://www.programiz.com/python-programming/examples
 
 ### COURSE DESCRIPTION
